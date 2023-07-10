@@ -11,7 +11,7 @@ namespace TypyDanych
             string surname = "nazwisko";
             int age = 45;
             char gender = 'm';
-            string pesel = 78021204221;
+            string pesel = "78021204221";
             long employee_id = 2509324094;
 
             Console.WriteLine(name);
